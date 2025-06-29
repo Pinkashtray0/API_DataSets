@@ -1,0 +1,1 @@
+<h3>This repository contains a simple Python script for web scraping. The script scrapes the current list of available API services in Poland from 'https://dane.gov.pl/pl' and saves the extracted data to an Excel file. It can be used to monitor changes or get an overview of public API offerings in Poland.</h3>
